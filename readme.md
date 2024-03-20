@@ -1,3 +1,9 @@
+## Docker Password Stuff <<https://docs.docker.com/desktop/get-started/#credentials-management-for-linux-users>>
+
+## 
+
+
+
 # Diff btwn Docker and Docker Compose
 # DE & DS Prep By Specs Listings
 
